@@ -36,6 +36,12 @@ export const metadata: Metadata = {
     "Baiko barcode tool"
   ],
 
+  icons: {
+    icon: "/favicon.jpg",
+    shortcut: "/favicon.jpg",
+    apple: "/favicon.jpg",
+  },
+
   authors: [{ name: "Baiko" }],
   creator: "Baiko",
   publisher: "Baiko",
