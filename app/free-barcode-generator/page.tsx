@@ -5,13 +5,23 @@ import JsBarcode from "jsbarcode";
 import { Download, RefreshCw, Barcode, CheckCircle2 } from "lucide-react";
 
 const categories = [
-  "Tissue",
-  "Grocery",
-  "Personal Care",
-  "Home Care",
-  "Apparel",
-  "Electronics",
-  "Other",
+  "Tissue & Hygiene",
+"Food & Beverage",
+"Personal Care",
+"Home & Living",
+"Kitchen & Dining",
+"Baby & Kids",
+"Health & Fitness",
+"Beauty & Wellness",
+"Apparel & Fashion",
+"Electronics & Gadgets",
+"Office & Stationery",
+"Pet Supplies",
+"Automotive",
+"Hardware & Tools",
+"Gifting & Lifestyle",
+"Digital Products",
+"Other",
 ];
 
 type FormState = {
